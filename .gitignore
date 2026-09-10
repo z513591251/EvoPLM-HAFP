@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ESM-2 weights (too large for git)
+*.pt
+
+# Runtime outputs
+models/
+results/
+feature_cache/
+extracted_features/
+best_model_name.txt
+Predicted_*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,5 @@
+autoBioSeqpy-2.0/examples/AFP/data/netr_ESM2.txt filter=lfs diff=lfs merge=lfs -text
+autoBioSeqpy-2.0/examples/AFP/data/nete_ESM2.txt filter=lfs diff=lfs merge=lfs -text
+autoBioSeqpy-2.0/examples/AFP/data/netr_DC.txt filter=lfs diff=lfs merge=lfs -text
+autoBioSeqpy-2.0/examples/AFP/data/potr_ESM2.txt filter=lfs diff=lfs merge=lfs -text
+autoBioSeqpy-2.0/examples/AFP/data/netr_peptide.txt filter=lfs diff=lfs merge=lfs -text
